@@ -6,4 +6,5 @@ Feature: US01 - Como administrador de la app, quiero un reporte de las interacci
         And me encuentro en la sección de "Reportes"
     When selecciono el reporte de "Interacciones de"
     Then el sistema recopila los datos necesarios
-        And muestra el reporte solicitado
+        And muestra el reporte solicitado holi
+        
